@@ -13,6 +13,6 @@ Este es el repositorio de un ejemplo de Tienda de Comida Online, un proyecto que
 
 ## Captura de pantalla
 
-<p>
+<p align="center">
     <img src="./images/95shots_so.png"/>
 </p>
