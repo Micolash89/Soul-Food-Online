@@ -4,9 +4,15 @@ Este es el repositorio de un ejemplo de Tienda de Comida Online, un proyecto que
 
 ## link del Proyecto
 
-- [link pagina](enlace-al-github-del-propietario) - Deploy en github Pages
+- [link pagina](https://micolash89.github.io/Soul-Food-Online/) - Deploy en github Pages
 - [FIGMA](<https://www.figma.com/file/8nPqZxLCUQuZpvUqvXHwQN/Food-animation-webpage-design-(Community)-(Copy)?type=design&node-id=2-2&mode=design&t=zJfJHvYMZ2jSYaER-0>) - Diseñador
 
 ## Tecnologías Utilizadas
 
 - HTML/CSS
+
+## Captura de pantalla
+
+<p>
+    <img src="./images/95shots_so.png"/>
+</p>
